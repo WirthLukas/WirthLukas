@@ -1,3 +1,4 @@
+<img align="center" src="./deer.png" alt="profile" />
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
