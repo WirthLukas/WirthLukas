@@ -13,4 +13,4 @@
 ![top used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wirthlukas&layout=compact&theme=tokyonight) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wirthlukas&show_icons=true&locale=en" alt="wirthlukas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wirthlukas&show_icons=true&locale=en&layout=compact" alt="wirthlukas" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wirthlukas&show_icons=true&locale=en&layout=compact" alt="wirthlukas" /></p>
