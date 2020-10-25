@@ -33,15 +33,16 @@
 
 ### Frameworks
 
-
 <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://heaps.io/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/25413467?s=400&v=4" alt="haxe" width="40" height="40"/> </a>
-<a href="https://hashlink.haxe.org/" target="_blank"> <img src="https://hashlink.haxe.org/hashlink.svg" alt="haxe" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 
+### Platform
+
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://hashlink.haxe.org/" target="_blank"> <img src="https://hashlink.haxe.org/hashlink.svg" alt="haxe" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
 ### DevOps
 
