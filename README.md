@@ -1,4 +1,4 @@
-<p align="center" style="border-radius: 50% !important;"><img src="./deer.png" alt="profile" width="200" /></p>
+<div align="center" style="border-radius: 50% !important;"><img src="./deer.png" alt="profile" width="200" /></div>
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
@@ -38,7 +38,7 @@
 <a href="https://heaps.io/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/25413467?s=400&v=4" alt="haxe" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 
-### Platform
+### Platforms
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://hashlink.haxe.org/" target="_blank"> <img src="https://hashlink.haxe.org/hashlink.svg" alt="haxe" width="40" height="40"/> </a>
