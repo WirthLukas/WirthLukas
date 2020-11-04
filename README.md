@@ -1,5 +1,5 @@
 <div align="center" style="border-radius: 50% !important;"><img src="./deer.png" alt="profile" width="200" /></div>
-<h1 align="center">Hi 👋, I'm Lukas</h1>
+<h1 align="center">Welcome to my github profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
 
@@ -7,15 +7,17 @@
 
 ## Languages and Tools:
 
-### Languages
+<p align="left">Languages</p>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://haxe.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haxe/haxe-icon.svg" alt="haxe" width="40" height="40"/> </a>
+<div style="float: left;">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://haxe.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haxe/haxe-icon.svg" alt="haxe" width="40" height="40"/> </a>
+</div>
 
 ### Web and Mobile
 
