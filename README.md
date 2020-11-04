@@ -1,4 +1,3 @@
-<div align="center" style="border-radius: 50% !important;"><img src="./deer.png" alt="profile" width="200" /></div>
 <h1 align="center">Welcome to my github profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
