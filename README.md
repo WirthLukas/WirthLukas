@@ -1,3 +1,13 @@
+<style>
+  .tool-item {
+    transision: all 1s;
+  }
+  
+  .tool-item:hover {
+    transform: rotate(360deg);
+  }
+</style>
+
 <h1 align="center">Welcome to my github profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
@@ -7,17 +17,17 @@
 ## Technologies:
 
 <div style="margin-left: 20px">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%23.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://haxe.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haxe/haxe-icon.svg" alt="haxe" width="40" height="40"/> </a>
-  <a href="https://heaps.io/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/25413467?s=400&v=4" alt="haxe" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://godotengine.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a>
+  <a class="tool-item" href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c.svg" alt="c" width="40" height="40"/> </a>
+<a class="tool-item" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%23.svg" alt="csharp" width="40" height="40"/> </a>
+<a class="tool-item" href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
+<a class="tool-item" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> </a>
+<a class="tool-item" href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a class="tool-item" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+<a class="tool-item" href="https://haxe.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haxe/haxe-icon.svg" alt="haxe" width="40" height="40"/> </a>
+  <a class="tool-item" href="https://heaps.io/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/25413467?s=400&v=4" alt="haxe" width="40" height="40"/> </a>
+  <a class="tool-item" href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
+  <a class="tool-item" href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <a class="tool-item" href="https://godotengine.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a>
 </div>
 
 
