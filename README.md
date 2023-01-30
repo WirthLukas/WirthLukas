@@ -1,13 +1,3 @@
-<style>
-  .tool-item {
-    transision: all 1s;
-  }
-  
-  .tool-item:hover {
-    transform: rotate(360deg);
-  }
-</style>
-
 <h1 align="center">Welcome to my github profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirthlukas&label=Profile%20views&color=0e75b6&style=flat" alt="wirthlukas" /> </p>
